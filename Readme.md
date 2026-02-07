@@ -28,26 +28,16 @@ The project focuses on clean design, responsiveness, and smooth user experience 
 
 ---
 
-## 📸 Preview
-
-> Desktop, tablet, and mobile-friendly layout with a Spotify-like music player.
-
-(Add screenshots here if you want later)
-
----
-
 ## 📂 Project Structure
 
-spotify-clone/
-│
-├── index.html
-├── style.css
-├── assets/
-│ ├── images/
-│ └── icons/
-└── README.md
-
-
+Spotify-clone
+   |
+   ├── index.html
+   ├── style.css
+   └── assets/
+      ├── images/
+      ├── icons/
+   └── Readme.md
 ---
 
 ## 📱 Responsive Design
@@ -71,21 +61,14 @@ spotify-clone/
 
 ---
 
-## 🔮 Future Improvements
+##Live demo
 
-- 🎶 JavaScript-based audio playback
-- ⏱️ Real-time progress control
-- 📂 Playlist functionality
-- 🎨 Glassmorphism theme
-- 🎥 GSAP animations
-
----
 
 ## 🧑‍💻 Author
 
 **Anshul**  
   
 
----
 
 ⭐ If you like this project, consider giving it a star!
+
