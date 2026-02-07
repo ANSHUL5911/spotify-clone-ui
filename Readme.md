@@ -3,7 +3,7 @@
 A modern, responsive **Spotify-inspired music player UI** built using **pure HTML & CSS**.  
 The project focuses on clean design, responsiveness, and smooth user experience across **Desktop, Tablet, and Mobile** devices.
 
----
+
 
 ## 🚀 Features
 
@@ -15,7 +15,7 @@ The project focuses on clean design, responsiveness, and smooth user experience 
 - 🎨 Modern card-based layout
 - ⚡ Optimized for performance (CSS-only, no frameworks)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -26,19 +26,9 @@ The project focuses on clean design, responsiveness, and smooth user experience 
   - CSS Variables
   - Transitions & Animations
 
----
 
-## 📂 Project Structure
 
-Spotify-clone
-   |
-   ├── index.html
-   ├── style.css
-   └── assets/
-      ├── images/
-      ├── icons/
-   └── Readme.md
----
+
 
 ## 📱 Responsive Design
 
@@ -49,7 +39,7 @@ Spotify-clone
 | Mobile  | ✅ |
 | Small Phones | ✅ |
 
----
+
 
 ## 🎯 What I Learned
 
@@ -59,7 +49,7 @@ Spotify-clone
 - Handling mobile-first responsiveness
 - UI/UX improvements using subtle animations
 
----
+
 
 ##Live demo
 
@@ -71,4 +61,5 @@ Spotify-clone
 
 
 ⭐ If you like this project, consider giving it a star!
+
 
