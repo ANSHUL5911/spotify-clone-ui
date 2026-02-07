@@ -51,7 +51,8 @@ The project focuses on clean design, responsiveness, and smooth user experience 
 
 
 
-##Live demo
+## Live demo
+Link - https://anshul5911.github.io/spotify-clone-ui/
 
 
 ## 🧑‍💻 Author
@@ -61,5 +62,6 @@ The project focuses on clean design, responsiveness, and smooth user experience 
 
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
